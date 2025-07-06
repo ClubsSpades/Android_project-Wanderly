@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_daily"> <!-- 设置背景图片 -->
+
+    <ImageView
+        android:id="@+id/imageQuote"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:scaleType="centerCrop"
+        android:contentDescription="每日美图" />
+
+    <TextView
+        android:id="@+id/textQuote"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+        android:textColor="#333"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="加载中..." />
+
+    <Button
+        android:id="@+id/btnRefresh"
+        android:layout_marginTop="30dp"
+        android:text="换一句"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
