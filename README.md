@@ -1,7 +1,6 @@
-首页：应用启动就有背景音乐自动播放。
+## 首页：应用启动就有背景音乐自动播放。
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/d4653ac2-01bc-4302-9c93-1896bece3a25" />
-
-四个按钮的交互跳转代码：
+## 四个按钮的交互跳转代码：
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/0b18024a-893c-42ce-a77b-76d2b13a7a58" />
 <img width="187" alt="image" src="https://github.com/user-attachments/assets/27e86004-e2e2-4b6d-b2f7-3d8af81d89c6" />
 景点查看：
